@@ -1,6 +1,6 @@
-Django==1.7.3
+Django==1.8.5
 requests==2.4.3
-djangorestframework==3.0.2
+djangorestframework==3.2.3
 django-rest-swagger==0.2.0
 django-haystack==2.3.1
 elasticsearch==0.4.5  # only 0.4 works for ES 0.90
